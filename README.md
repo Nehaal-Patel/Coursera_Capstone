@@ -1,6 +1,6 @@
 # Coursera_Capstone
 
-##Week 1:
+## Week 1:
 
 Now, start a Jupyter Notebook using any platform that you are comfortable with and do the following:
 
